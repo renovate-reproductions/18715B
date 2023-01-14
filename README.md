@@ -1,0 +1,1 @@
+# renovate-ignore-php-version
